@@ -1,0 +1,27 @@
+{
+  "status": 0,
+  "message": "ok",
+  "errorData": "",
+  "data": {
+    "planCode": "planCode",
+    "planName": "planName",
+    "status": "1",
+    "statusName": "chưa cập nhật",
+    "unit": "TTC",
+    "supervisoryStaff": "supervisoryStaff",
+    "acceptanceStaff": "acceptanceStaff",
+    "drawDesign": "drawDesign",
+    "docAcceptance": "docAcceptance",
+    "listObjDevice": [
+      {
+        "objName": "",
+        "status": "INF xác nhận",
+        "link": "Đã liên kết",
+        "ai_check": "Ok",
+        "quality": "0|1",
+        "portStatus": "1"
+      }
+    ],
+    "allowConfirmation": "allowConfirmation"
+  }
+}
