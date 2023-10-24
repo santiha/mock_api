@@ -12,16 +12,6 @@
     "acceptanceStaff": "acceptanceStaff",
     "drawDesign": "drawDesign",
     "docAcceptance": "docAcceptance",
-    "listObjDevice": [
-      {
-        "objName": "",
-        "status": "INF xác nhận",
-        "link": "Đã liên kết",
-        "ai_check": "Ok",
-        "quality": "0|1",
-        "portStatus": "1"
-      }
-    ],
     "allowConfirmation": "allowConfirmation"
   }
 }
