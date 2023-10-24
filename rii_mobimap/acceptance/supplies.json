@@ -1,0 +1,16 @@
+{
+  "planCode": "planCode",
+  "status": "status",
+  "search": "search",
+  "pageNum": 1,
+  "pageSize": 20,
+  "isEndPage": false,
+  "data": [
+    {
+      "codeSupplies": "codeSupplies",
+      "nameSupplies": "nameSupplies",
+      "numSupplies": "numSupplies",
+      "objName": "objName"
+    }
+  ]
+}
