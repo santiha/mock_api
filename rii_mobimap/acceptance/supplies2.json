@@ -1,24 +1,29 @@
 {
-  "data": [
-    {
-      "codeSupplies": "codeSupplies 1",
-      "nameSupplies": "nameSupplies 1",
-      "numSupplies": "numSupplies 1"
-    },
-    {
-      "codeSupplies": "codeSupplies 2",
-      "nameSupplies": "nameSupplies 2",
-      "numSupplies": "numSupplies 2"
-    },
-    {
-      "codeSupplies": "codeSupplies 3",
-      "nameSupplies": "nameSupplies 3",
-      "numSupplies": "numSupplies 3"
-    },
-    {
-      "codeSupplies": "codeSupplies 4",
-      "nameSupplies": "nameSupplies 4",
-      "numSupplies": "numSupplies 4"
+    "status": 0,
+    "message": "ok",
+    "errorData": "",
+    "data": {
+        "data": [
+            {
+                "codeSupplies": "codeSupplies 1",
+                "nameSupplies": "nameSupplies 1",
+                "numSupplies": "numSupplies 1"
+            },
+            {
+                "codeSupplies": "codeSupplies 2",
+                "nameSupplies": "nameSupplies 2",
+                "numSupplies": "numSupplies 2"
+            },
+            {
+                "codeSupplies": "codeSupplies 3",
+                "nameSupplies": "nameSupplies 3",
+                "numSupplies": "numSupplies 3"
+            },
+            {
+                "codeSupplies": "codeSupplies 4",
+                "nameSupplies": "nameSupplies 4",
+                "numSupplies": "numSupplies 4"
+            }
+        ]
     }
-  ]
 }
