@@ -1,0 +1,41 @@
+{
+    "criteria": [
+        {
+            "id": "1",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Không đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Không đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Đạt"
+        },
+        {
+            "id": "",
+            "criteriaName": "Khuy cài (móc tai thỏ)",
+            "result": "Đạt"
+        }
+    ],
+    "results": "Không đạt",
+    "numResults": "0"
+}
