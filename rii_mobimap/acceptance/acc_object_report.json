@@ -12,6 +12,6 @@
     "acceptanceStaff": "acceptanceStaff",
     "drawDesign": "drawDesign",
     "docAcceptance": "docAcceptance",
-    "allowConfirmation": "allowConfirmation"
+    "allowConfirmation": "1"
   }
 }
