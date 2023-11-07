@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "groupName": "Nghiệm Thu HT",
+            "code": "NghiemThu",
+            "functions": [
+                {
+                    "actionMethod": 1,
+                    "name": "Danh Sách đối tượng",
+                    "actionUrl": "api/v1/users",
+                    "actionCode": "DVTC",
+                    "id": 75
+                },
+                {
+                    "actionMethod": 1,
+                    "name": "Chi Tiết Đối tượng",
+                    "actionUrl": "api/v1/users/{userId}",
+                    "actionCode": "INF",
+                    "id": 86
+                },
+                {
+                    "actionMethod": 3,
+                    "name": "Xác nhận đối tượng",
+                    "actionUrl": "api/v1/users/{userId}",
+                    "actionCode": "FTQ",
+                    "id": 88
+                },
+                {
+                    "actionMethod": 3,
+                    "name": "Xác nhận biên bản",
+                    "actionUrl": "api/v1/users/{userId}",
+                    "actionCode": "FTQ",
+                    "id": 89
+                }
+            ],
+            "name": "Nghiệm Thu",
+            "id": 2
+        }
+    ],
+    "message": "Demo",
+    "errorData": null,
+    "status": 0
+}
