@@ -1,50 +1,57 @@
-[
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
-    },
-    {
-        "datetime": "11/07/2023 11:30",
-        "user": "tester",
-        "content": "Nâng cấp hạ tầng PON tại HCMP067",
-        "suggestion": "lắp đặt 01 bộ chia"
+{
+    "status": 0,
+    "message": "ok",
+    "errorData": "",
+    "data": {
+        "data": [
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            },
+            {
+                "datetime": "11/07/2023 11:30",
+                "user": "tester",
+                "content": "Nâng cấp hạ tầng PON tại HCMP067",
+                "suggestion": "lắp đặt 01 bộ chia"
+            }
+        ]
     }
-]
+}
